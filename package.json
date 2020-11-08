@@ -1,8 +1,8 @@
 {
-  "name": "server",
+  "name": "chat-application",
   "version": "1.0.0",
-  "description": "realtime-chat-application",
-  "main": "index.js",
+  "description": "chat-application",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
